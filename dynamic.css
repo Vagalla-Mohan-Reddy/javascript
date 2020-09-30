@@ -1,0 +1,150 @@
+@media only screen and (min-width: 768px) and (max-width: 1500px){
+	#parent-div{
+	padding:1%;
+	border:2px solid black;
+	margin: 3%;
+	display: flex;
+}
+.child1{
+	padding:2%;
+	border:2px solid black;
+	margin:1%;
+	width: 40%;
+}
+.child2{
+	padding-left:2%;
+	border:2px solid black;
+	margin:1%;
+}
+.table1{
+	border:2px solid black;
+	border-collapse: collapse;
+	width:97%;
+	margin-bottom:2%;
+}
+.table1 td{
+	padding:10px;
+	border-bottom: 2px solid black;
+}
+li
+{
+	padding:1%;
+}
+.table2{
+	border:2px solid black;
+	border-collapse: collapse;
+	width:97%;
+	margin-bottom:2%;
+}
+.table2 td{
+	padding:10px;
+	border-bottom: 2px solid black;
+}
+.unorder1{
+	list-style: none;
+	font-size: 20px;
+}
+}
+@media only screen and (min-width:316px) and (max-width:480px)
+{
+	#parent-div{
+	padding:1%;
+	border:2px solid black;
+	margin: 3%;
+}
+.child1{
+	padding:2%;
+	border:2px solid black;
+	margin:1%;
+	max-width:auto;
+}
+.child2{
+	overflow-wrap:break-word;
+	padding-left:2%;
+	border:2px solid black;
+	margin:1%;
+}
+.table1{
+	border:2px solid black;
+	border-collapse: collapse;
+	max-width:auto;
+	margin-bottom:2%;
+}
+.table1 td{
+	padding:10px;
+	border-bottom: 2px solid black;
+}
+li
+{
+	padding:1%;
+}
+.table2{ 
+	max-width:98%;
+	border:2px solid black;
+	border-collapse: collapse;
+	margin-bottom:2%;
+}
+.table2 td{
+	padding:10px;
+	border-bottom: 2px solid black;
+}
+.unorder1{
+	list-style: none;
+	font-size: 20px;
+}
+}
+@media only screen and (min-width:480px) and (max-width:768px)
+{
+	#parent-div{
+	padding:1%;
+	border:2px solid black;
+	margin: 3%;
+}
+img{
+	image-rendering: auto;
+}
+.child1{
+	padding:2%;
+	border:2px solid black;
+	margin:1%;
+	max-width:auto;
+}
+.child2{
+	overflow-wrap:break-word;
+	padding-left:2%;
+	border:2px solid black;
+	margin:1%;
+}
+.table1{
+	border:2px solid black;
+	border-collapse: collapse;
+	width:98%;
+	margin-bottom:2%;
+}
+.table1 td{
+	padding:10px;
+	border-bottom: 2px solid black;
+}
+li
+{
+	padding:1%;
+}
+.table2{ 
+	width:98%;
+	border:2px solid black;
+	border-collapse: collapse;
+	margin-bottom:2%;
+}
+.table2 tr:first-child{
+	font-size: 24px;
+	font-weight: bold;
+}
+.table2 td{
+	padding:10px;
+	border-bottom: 2px solid black;
+}
+.unorder1{
+	list-style: none;
+	font-size: 20px;
+}
+}

@@ -1,0 +1,33 @@
+{
+	"details":{
+		"image1":"res.png",
+		"name":"Mohan Reddy",
+		"prof":"Student at RGMCET"
+	},
+	"skills":{
+
+		"lang_skill":["C programming","Java","PHP","Django","Python"],
+		"score":["5/10","5/20","4/10","5/10","7/10"],
+		"person_skill":["Brilliant","Honest","Philanthropist","playBoy"]
+	},
+	"objective":
+	{
+		"goal":"Diligent Computer Science major(9.0 CGPA) Currently attending Rajeev Gandhi Memorial College of Engineering and Technology. Aiming to leverage proven creative thinking, critical thinking and analytical skills to successfully fill my role at your company."
+	},
+	"education":{
+		"college":["RGMCET","B.Tech","9.0","2017 - 2021"],
+		"Inter":["Narayana Junior College","Inter","97.7%","2015 - 2017"],
+		"school":["Kakatiya High School","SSC","9.8","2015"]
+	},
+	"Address":
+	{
+		"door":"Door No: 369-A,sainic nagar",
+		"Town":"Town: pileru",
+		"Mandal":"Mandal: pileru",
+		"Dist":"Dist: Chittoor district",
+		"State":"State: Andhra Pradesh",
+		"Pin":"Pin: 517214",
+		"contact":"contact: +919010465209",
+		"email":"Email: mohanreddymohan2053@gmail.com"
+	}
+}
